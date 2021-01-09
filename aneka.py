@@ -18,8 +18,6 @@ sentToken = sent_tokens[:4]
 wordToken = word_tokens[:4]
 #print(wordToken)
 
-
-
 #preprocessing 
 lemmer = nltk.stem.WordNetLemmatizer()
 
